@@ -1,7 +1,0 @@
-C:\Users\Maycalyson\source\repos\PA07-Media4Notas-Vetor\bin\Debug\PA07-Media4Notas-Vetor.exe.config
-C:\Users\Maycalyson\source\repos\PA07-Media4Notas-Vetor\bin\Debug\PA07-Media4Notas-Vetor.exe
-C:\Users\Maycalyson\source\repos\PA07-Media4Notas-Vetor\bin\Debug\PA07-Media4Notas-Vetor.pdb
-C:\Users\Maycalyson\source\repos\PA07-Media4Notas-Vetor\obj\Debug\PA07-Media4Notas-Vetor.csprojAssemblyReference.cache
-C:\Users\Maycalyson\source\repos\PA07-Media4Notas-Vetor\obj\Debug\PA07-Media4Notas-Vetor.csproj.CoreCompileInputs.cache
-C:\Users\Maycalyson\source\repos\PA07-Media4Notas-Vetor\obj\Debug\PA07-Media4Notas-Vetor.exe
-C:\Users\Maycalyson\source\repos\PA07-Media4Notas-Vetor\obj\Debug\PA07-Media4Notas-Vetor.pdb

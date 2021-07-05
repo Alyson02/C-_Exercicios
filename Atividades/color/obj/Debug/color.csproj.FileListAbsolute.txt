@@ -1,6 +1,0 @@
-A:\DS\Projetos\C#\color\obj\Debug\color.csproj.CoreCompileInputs.cache
-A:\DS\Projetos\C#\color\bin\Debug\color.exe.config
-A:\DS\Projetos\C#\color\bin\Debug\color.exe
-A:\DS\Projetos\C#\color\bin\Debug\color.pdb
-A:\DS\Projetos\C#\color\obj\Debug\color.exe
-A:\DS\Projetos\C#\color\obj\Debug\color.pdb
