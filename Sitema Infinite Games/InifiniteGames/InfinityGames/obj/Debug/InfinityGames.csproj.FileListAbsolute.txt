@@ -1,0 +1,908 @@
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\InfinityGames.exe.config
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\InfinityGames.exe
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\InfinityGames.pdb
+A:\DS\Projetos\C#\InfinityGames\obj\Debug\InfinityGames.Properties.Resources.resources
+A:\DS\Projetos\C#\InfinityGames\obj\Debug\InfinityGames.csproj.GenerateResource.cache
+A:\DS\Projetos\C#\InfinityGames\obj\Debug\InfinityGames.csproj.CoreCompileInputs.cache
+A:\DS\Projetos\C#\InfinityGames\obj\Debug\InfinityGames.exe
+A:\DS\Projetos\C#\InfinityGames\obj\Debug\InfinityGames.pdb
+A:\DS\Projetos\C#\InfinityGames\obj\Debug\InfinityGames.Splash.resources
+A:\DS\Projetos\C#\InfinityGames\obj\Debug\InfinityGames.frmLogin.resources
+A:\DS\Projetos\C#\InfinityGames\obj\Debug\InfinityGames.csprojAssemblyReference.cache
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\Azure.Core.Amqp.dll
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\Azure.Core.dll
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\Azure.Messaging.ServiceBus.dll
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\FontAwesome.Sharp.dll
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\Microsoft.Azure.Amqp.dll
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\System.Buffers.dll
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\System.Memory.Data.dll
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\System.Memory.dll
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\System.Numerics.Vectors.dll
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\System.Text.Encodings.Web.dll
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\System.Text.Json.dll
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\System.Threading.Tasks.Extensions.dll
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\System.ValueTuple.dll
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\Azure.Core.xml
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\Azure.Core.Amqp.xml
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\Azure.Messaging.ServiceBus.xml
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\System.Buffers.xml
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\System.Memory.xml
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\System.Memory.Data.xml
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\System.Numerics.Vectors.xml
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\System.Text.Encodings.Web.xml
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\System.Text.Json.xml
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\System.Threading.Tasks.Extensions.xml
+A:\DS\Projetos\C#\InfinityGames\bin\Debug\System.ValueTuple.xml
+A:\DS\Projetos\C#\InfinityGames\obj\Debug\InfinityGames.frmBase.resources
+A:\DS\Projetos\C#\InfinityGames\obj\Debug\InfinityGames.csproj.CopyComplete
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\InfinityGames.exe.config
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\InfinityGames.exe
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\InfinityGames.pdb
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\netstandard.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.AppContext.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Collections.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.ComponentModel.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Console.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Data.Common.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Globalization.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.IO.Compression.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.IO.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.IO.Pipes.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Linq.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Net.Http.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Net.Ping.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Net.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Net.Requests.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Net.Security.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Net.Sockets.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.ObjectModel.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Reflection.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Resources.Reader.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Resources.Writer.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Runtime.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Security.Claims.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Security.Principal.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Security.SecureString.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Text.Encoding.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Threading.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Threading.Thread.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Threading.Timer.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Xml.XPath.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\Azure.Core.Amqp.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\Azure.Core.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\Azure.Messaging.ServiceBus.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Buffers.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Memory.Data.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Memory.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Text.Json.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.ValueTuple.dll
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\Azure.Core.xml
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\Azure.Core.Amqp.xml
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\Azure.Messaging.ServiceBus.xml
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Buffers.xml
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Memory.xml
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Memory.Data.xml
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Text.Json.xml
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\bin\Debug\System.ValueTuple.xml
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\obj\Debug\InfinityGames.csprojAssemblyReference.cache
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\obj\Debug\InfinityGames.exe.config
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\obj\Debug\InfinityGames.frmBase.resources
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\obj\Debug\InfinityGames.frmLogin.resources
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\obj\Debug\InfinityGames.Splash.resources
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\obj\Debug\InfinityGames.Properties.Resources.resources
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\obj\Debug\InfinityGames.csproj.GenerateResource.cache
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\obj\Debug\InfinityGames.csproj.CoreCompileInputs.cache
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\obj\Debug\InfinityGames.csproj.CopyComplete
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\obj\Debug\InfinityGames.exe
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\obj\Debug\InfinityGames.pdb
+C:\Users\Vinike10\Downloads\InfinityGames1\InfinityGames\obj\Debug\InfinityGames.frmCadastraProd.resources
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\InfinityGames.exe.config
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\InfinityGames.exe
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\InfinityGames.pdb
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\Microsoft.Win32.Primitives.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\netstandard.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.AppContext.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Collections.Concurrent.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Collections.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Collections.NonGeneric.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Collections.Specialized.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.ComponentModel.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.ComponentModel.Primitives.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.ComponentModel.TypeConverter.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Console.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Data.Common.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Diagnostics.Contracts.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Diagnostics.Debug.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Diagnostics.Process.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Diagnostics.StackTrace.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Diagnostics.Tools.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Diagnostics.TraceSource.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Diagnostics.Tracing.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Drawing.Primitives.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Dynamic.Runtime.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Globalization.Calendars.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Globalization.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Globalization.Extensions.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.IO.Compression.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.IO.Compression.ZipFile.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.IO.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.IO.FileSystem.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.IO.FileSystem.Primitives.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.IO.FileSystem.Watcher.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.IO.IsolatedStorage.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.IO.MemoryMappedFiles.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.IO.Pipes.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Linq.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Linq.Expressions.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Linq.Parallel.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Linq.Queryable.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Net.Http.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Net.NameResolution.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Net.NetworkInformation.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Net.Ping.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Net.Primitives.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Net.Requests.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Net.Security.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Net.Sockets.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Net.WebHeaderCollection.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Net.WebSockets.Client.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Net.WebSockets.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.ObjectModel.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Reflection.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Reflection.Extensions.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Reflection.Primitives.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Resources.Reader.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Resources.ResourceManager.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Resources.Writer.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Runtime.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Runtime.Extensions.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Runtime.Handles.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Runtime.InteropServices.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Runtime.Numerics.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Runtime.Serialization.Formatters.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Runtime.Serialization.Json.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Runtime.Serialization.Primitives.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Runtime.Serialization.Xml.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Security.Claims.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Security.Cryptography.Algorithms.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Security.Cryptography.Csp.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Security.Cryptography.Encoding.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Security.Cryptography.Primitives.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Security.Principal.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Security.SecureString.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Text.Encoding.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Text.Encoding.Extensions.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Text.RegularExpressions.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Threading.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Threading.Overlapped.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Threading.Tasks.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Threading.Tasks.Parallel.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Threading.Thread.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Threading.ThreadPool.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Threading.Timer.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Xml.ReaderWriter.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Xml.XDocument.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Xml.XmlDocument.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Xml.XmlSerializer.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Xml.XPath.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Xml.XPath.XDocument.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\Azure.Core.Amqp.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\Azure.Core.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\Azure.Messaging.ServiceBus.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\Microsoft.Azure.Amqp.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Buffers.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Memory.Data.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Memory.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Numerics.Vectors.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Text.Encodings.Web.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Text.Json.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Threading.Tasks.Extensions.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.ValueTuple.dll
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\Azure.Core.xml
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\Azure.Core.Amqp.xml
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\Azure.Messaging.ServiceBus.xml
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Buffers.xml
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Memory.xml
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Memory.Data.xml
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Numerics.Vectors.xml
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Text.Encodings.Web.xml
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Text.Json.xml
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.Threading.Tasks.Extensions.xml
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\bin\Debug\System.ValueTuple.xml
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\obj\Debug\InfinityGames.csprojAssemblyReference.cache
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\obj\Debug\InfinityGames.exe.config
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\obj\Debug\InfinityGames.frmCadastraProd.resources
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\obj\Debug\InfinityGames.frmBase.resources
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\obj\Debug\InfinityGames.frmLogin.resources
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\obj\Debug\InfinityGames.Splash.resources
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\obj\Debug\InfinityGames.Properties.Resources.resources
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\obj\Debug\InfinityGames.csproj.GenerateResource.cache
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\obj\Debug\InfinityGames.csproj.CoreCompileInputs.cache
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\obj\Debug\InfinityGames.csproj.CopyComplete
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\obj\Debug\InfinityGames.exe
+A:\DS\Projetos\C#\InfinityGames2\InfinityGames\obj\Debug\InfinityGames.pdb
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\InfinityGames.exe.config
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\InfinityGames.exe
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\InfinityGames.pdb
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\netstandard.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.AppContext.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Collections.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.ComponentModel.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Console.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Data.Common.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Globalization.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.IO.Compression.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.IO.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.IO.Pipes.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Linq.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Net.Http.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Net.Ping.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Net.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Net.Requests.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Net.Security.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Net.Sockets.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.ObjectModel.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Reflection.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Resources.Reader.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Resources.Writer.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Runtime.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Security.Claims.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Security.Principal.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Security.SecureString.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Text.Encoding.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Threading.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Threading.Thread.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Threading.Timer.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Xml.XPath.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\Azure.Core.Amqp.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\Azure.Core.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\Azure.Messaging.ServiceBus.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Buffers.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Memory.Data.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Memory.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Text.Json.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.ValueTuple.dll
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\Azure.Core.xml
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\Azure.Core.Amqp.xml
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\Azure.Messaging.ServiceBus.xml
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Buffers.xml
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Memory.xml
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Memory.Data.xml
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Text.Json.xml
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\bin\Debug\System.ValueTuple.xml
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\obj\Debug\InfinityGames.csprojAssemblyReference.cache
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\obj\Debug\InfinityGames.exe.config
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\obj\Debug\InfinityGames.frmCadastraProd.resources
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\obj\Debug\InfinityGames.frmBase.resources
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\obj\Debug\InfinityGames.frmLogin.resources
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\obj\Debug\InfinityGames.Splash.resources
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\obj\Debug\InfinityGames.Properties.Resources.resources
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\obj\Debug\InfinityGames.csproj.GenerateResource.cache
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\obj\Debug\InfinityGames.csproj.CoreCompileInputs.cache
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\obj\Debug\InfinityGames.csproj.CopyComplete
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\obj\Debug\InfinityGames.exe
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\obj\Debug\InfinityGames.pdb
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\obj\Debug\InfinityGames.frmCadastraCli.resources
+C:\Users\Vinike10\Downloads\InfinityGames (5)\InfinityGames\obj\Debug\InfinityGames.frmCadastraPedido.resources
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\InfinityGames.exe.config
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\InfinityGames.exe
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\InfinityGames.pdb
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\netstandard.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.AppContext.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Collections.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.ComponentModel.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Console.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Data.Common.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Globalization.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.IO.Compression.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.IO.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.IO.Pipes.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Linq.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Net.Http.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Net.Ping.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Net.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Net.Requests.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Net.Security.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Net.Sockets.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.ObjectModel.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Reflection.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Resources.Reader.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Resources.Writer.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Runtime.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Security.Claims.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Security.Principal.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Security.SecureString.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Text.Encoding.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Threading.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Threading.Thread.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Threading.Timer.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Xml.XPath.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\Azure.Core.Amqp.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\Azure.Core.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\Azure.Messaging.ServiceBus.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Buffers.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Memory.Data.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Memory.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Text.Json.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.ValueTuple.dll
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\Azure.Core.xml
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\Azure.Core.Amqp.xml
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\Azure.Messaging.ServiceBus.xml
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Buffers.xml
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Memory.xml
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Memory.Data.xml
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Text.Json.xml
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\bin\Debug\System.ValueTuple.xml
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\obj\Debug\InfinityGames.csprojAssemblyReference.cache
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\obj\Debug\InfinityGames.exe.config
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\obj\Debug\InfinityGames.frmCadastraCli.resources
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\obj\Debug\InfinityGames.frmCadastraPedido.resources
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\obj\Debug\InfinityGames.frmCadastraProd.resources
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\obj\Debug\InfinityGames.frmBase.resources
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\obj\Debug\InfinityGames.frmLogin.resources
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\obj\Debug\InfinityGames.Splash.resources
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\obj\Debug\InfinityGames.Properties.Resources.resources
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\obj\Debug\InfinityGames.csproj.GenerateResource.cache
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\obj\Debug\InfinityGames.csproj.CoreCompileInputs.cache
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\obj\Debug\InfinityGames.csproj.CopyComplete
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\obj\Debug\InfinityGames.exe
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\obj\Debug\InfinityGames.pdb
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\obj\Debug\InfinityGames.frmCadastraFunc.resources
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\obj\Debug\InfinityGames.frmAgenda.resources
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\obj\Debug\InfinityGames.frmVenda.resources
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\obj\Debug\InfinityGames.frmConsultaProd.resources
+C:\Users\Vinike10\Downloads\InfinityGames (6)\InfinityGames\obj\Debug\InfinityGames.frmConsultaCli.resources
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\obj\Debug\InfinityGames.exe.config
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\obj\Debug\InfinityGames.frmAgenda.resources
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\obj\Debug\InfinityGames.frmCadastraCli.resources
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\obj\Debug\InfinityGames.frmCadastraFunc.resources
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\obj\Debug\InfinityGames.frmCadastraPedido.resources
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\obj\Debug\InfinityGames.frmConsultaCli.resources
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\obj\Debug\InfinityGames.frmConsultaProd.resources
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\obj\Debug\InfinityGames.frmLogin.resources
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\obj\Debug\InfinityGames.frmVenda.resources
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\obj\Debug\InfinityGames.Splash.resources
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\obj\Debug\InfinityGames.Properties.Resources.resources
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\obj\Debug\InfinityGames.csproj.GenerateResource.cache
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\obj\Debug\InfinityGames.csproj.CoreCompileInputs.cache
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\obj\Debug\InfinityGames.exe
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\obj\Debug\InfinityGames.pdb
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\InfinityGames.exe.config
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\InfinityGames.exe
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\InfinityGames.pdb
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\Microsoft.Win32.Primitives.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\netstandard.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.AppContext.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Collections.Concurrent.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Collections.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Collections.NonGeneric.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Collections.Specialized.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.ComponentModel.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.ComponentModel.Primitives.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.ComponentModel.TypeConverter.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Console.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Data.Common.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Diagnostics.Contracts.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Diagnostics.Debug.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Diagnostics.Process.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Diagnostics.StackTrace.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Diagnostics.Tools.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Diagnostics.TraceSource.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Diagnostics.Tracing.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Drawing.Primitives.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Dynamic.Runtime.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Globalization.Calendars.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Globalization.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Globalization.Extensions.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.IO.Compression.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.IO.Compression.ZipFile.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.IO.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.IO.FileSystem.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.IO.FileSystem.Primitives.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.IO.FileSystem.Watcher.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.IO.IsolatedStorage.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.IO.MemoryMappedFiles.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.IO.Pipes.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Linq.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Linq.Expressions.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Linq.Parallel.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Linq.Queryable.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Net.Http.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Net.NameResolution.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Net.NetworkInformation.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Net.Ping.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Net.Primitives.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Net.Requests.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Net.Security.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Net.Sockets.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Net.WebHeaderCollection.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Net.WebSockets.Client.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Net.WebSockets.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.ObjectModel.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Reflection.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Reflection.Extensions.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Reflection.Primitives.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Resources.Reader.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Resources.ResourceManager.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Resources.Writer.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Runtime.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Runtime.Extensions.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Runtime.Handles.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Runtime.InteropServices.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Runtime.Numerics.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Runtime.Serialization.Formatters.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Runtime.Serialization.Json.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Runtime.Serialization.Primitives.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Runtime.Serialization.Xml.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Security.Claims.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Security.Cryptography.Algorithms.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Security.Cryptography.Csp.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Security.Cryptography.Encoding.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Security.Cryptography.Primitives.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Security.Principal.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Security.SecureString.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Text.Encoding.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Text.Encoding.Extensions.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Text.RegularExpressions.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Threading.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Threading.Overlapped.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Threading.Tasks.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Threading.Tasks.Parallel.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Threading.Thread.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Threading.ThreadPool.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Threading.Timer.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Xml.ReaderWriter.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Xml.XDocument.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Xml.XmlDocument.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Xml.XmlSerializer.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Xml.XPath.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Xml.XPath.XDocument.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\Azure.Core.Amqp.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\Azure.Core.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\Azure.Messaging.ServiceBus.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\Microsoft.Azure.Amqp.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Buffers.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Memory.Data.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Memory.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Numerics.Vectors.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Text.Encodings.Web.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Text.Json.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Threading.Tasks.Extensions.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.ValueTuple.dll
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\Azure.Core.xml
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\Azure.Core.Amqp.xml
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\Azure.Messaging.ServiceBus.xml
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Buffers.xml
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Memory.xml
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Memory.Data.xml
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Numerics.Vectors.xml
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Text.Encodings.Web.xml
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Text.Json.xml
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.Threading.Tasks.Extensions.xml
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\bin\Debug\System.ValueTuple.xml
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\obj\Debug\InfinityGames.frmCadastraProd.resources
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\obj\Debug\InfinityGames.csproj.CopyComplete
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\obj\Debug\InfinityGames.csprojAssemblyReference.cache
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\obj\Debug\InfinityGames.frmItens.resources
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\obj\Debug\InfinityGames.frmBase.resources
+A:\DS\TCM 1BIM\Sist\InfinityGames\InfinityGames\obj\Debug\InfinityGames.frmBase1.resources
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\InfinityGames.exe.config
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\InfinityGames.exe
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\InfinityGames.pdb
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\Microsoft.Win32.Primitives.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\netstandard.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.AppContext.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Collections.Concurrent.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Collections.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Collections.NonGeneric.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Collections.Specialized.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.ComponentModel.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.ComponentModel.Primitives.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.ComponentModel.TypeConverter.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Console.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Data.Common.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Diagnostics.Contracts.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Diagnostics.Debug.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Diagnostics.Process.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Diagnostics.StackTrace.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Diagnostics.Tools.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Diagnostics.TraceSource.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Diagnostics.Tracing.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Drawing.Primitives.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Dynamic.Runtime.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Globalization.Calendars.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Globalization.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Globalization.Extensions.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.IO.Compression.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.IO.Compression.ZipFile.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.IO.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.IO.FileSystem.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.IO.FileSystem.Primitives.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.IO.FileSystem.Watcher.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.IO.IsolatedStorage.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.IO.MemoryMappedFiles.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.IO.Pipes.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Linq.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Linq.Expressions.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Linq.Parallel.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Linq.Queryable.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Net.Http.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Net.NameResolution.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Net.NetworkInformation.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Net.Ping.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Net.Primitives.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Net.Requests.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Net.Security.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Net.Sockets.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Net.WebHeaderCollection.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Net.WebSockets.Client.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Net.WebSockets.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.ObjectModel.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Reflection.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Reflection.Extensions.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Reflection.Primitives.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Resources.Reader.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Resources.ResourceManager.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Resources.Writer.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Runtime.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Runtime.Extensions.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Runtime.Handles.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Runtime.InteropServices.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Runtime.Numerics.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Runtime.Serialization.Formatters.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Runtime.Serialization.Json.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Runtime.Serialization.Primitives.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Runtime.Serialization.Xml.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Security.Claims.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Security.Cryptography.Algorithms.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Security.Cryptography.Csp.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Security.Cryptography.Encoding.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Security.Cryptography.Primitives.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Security.Principal.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Security.SecureString.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Text.Encoding.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Text.Encoding.Extensions.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Text.RegularExpressions.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Threading.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Threading.Overlapped.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Threading.Tasks.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Threading.Tasks.Parallel.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Threading.Thread.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Threading.ThreadPool.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Threading.Timer.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Xml.ReaderWriter.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Xml.XDocument.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Xml.XmlDocument.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Xml.XmlSerializer.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Xml.XPath.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Xml.XPath.XDocument.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\Azure.Core.Amqp.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\Azure.Core.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\Azure.Messaging.ServiceBus.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\Microsoft.Azure.Amqp.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Buffers.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Memory.Data.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Memory.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Numerics.Vectors.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Text.Encodings.Web.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Text.Json.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Threading.Tasks.Extensions.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.ValueTuple.dll
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\Azure.Core.xml
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\Azure.Core.Amqp.xml
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\Azure.Messaging.ServiceBus.xml
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Buffers.xml
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Memory.xml
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Memory.Data.xml
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Numerics.Vectors.xml
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Text.Encodings.Web.xml
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Text.Json.xml
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.Threading.Tasks.Extensions.xml
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\System.ValueTuple.xml
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.csprojAssemblyReference.cache
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.exe.config
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.frmAgenda.resources
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.frmBase1.resources
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.frmCadastraCli.resources
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.frmCadastraFunc.resources
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.frmCadastraPedido.resources
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.frmCadastraProd.resources
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.frmBase.resources
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.frmConsultaCli.resources
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.frmConsultaProd.resources
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.frmItens.resources
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.frmLogin.resources
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.frmVenda.resources
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.Splash.resources
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.Properties.Resources.resources
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.csproj.GenerateResource.cache
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.csproj.CoreCompileInputs.cache
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.csproj.CopyComplete
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.exe
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.pdb
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\InfinityGames.exe.manifest
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\bin\Debug\InfinityGames.application
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.exe.manifest
+A:\DS\Projetos\C#\InifiniteGames\InfinityGames\obj\Debug\InfinityGames.application

@@ -1,0 +1,7 @@
+A:\DS\Projetos\C#\PA08_Swich\bin\Debug\PA08_Swich.exe.config
+A:\DS\Projetos\C#\PA08_Swich\bin\Debug\PA08_Swich.exe
+A:\DS\Projetos\C#\PA08_Swich\bin\Debug\PA08_Swich.pdb
+A:\DS\Projetos\C#\PA08_Swich\obj\Debug\PA08_Swich.csprojAssemblyReference.cache
+A:\DS\Projetos\C#\PA08_Swich\obj\Debug\PA08_Swich.csproj.CoreCompileInputs.cache
+A:\DS\Projetos\C#\PA08_Swich\obj\Debug\PA08_Swich.exe
+A:\DS\Projetos\C#\PA08_Swich\obj\Debug\PA08_Swich.pdb

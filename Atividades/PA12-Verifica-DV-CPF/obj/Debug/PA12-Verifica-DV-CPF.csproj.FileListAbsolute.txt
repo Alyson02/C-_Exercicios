@@ -1,0 +1,7 @@
+A:\DS\Projetos\C#\PA12-Verifica-DV-CPF\bin\Debug\PA12-Verifica-DV-CPF.exe.config
+A:\DS\Projetos\C#\PA12-Verifica-DV-CPF\bin\Debug\PA12-Verifica-DV-CPF.exe
+A:\DS\Projetos\C#\PA12-Verifica-DV-CPF\bin\Debug\PA12-Verifica-DV-CPF.pdb
+A:\DS\Projetos\C#\PA12-Verifica-DV-CPF\obj\Debug\PA12-Verifica-DV-CPF.csprojAssemblyReference.cache
+A:\DS\Projetos\C#\PA12-Verifica-DV-CPF\obj\Debug\PA12-Verifica-DV-CPF.csproj.CoreCompileInputs.cache
+A:\DS\Projetos\C#\PA12-Verifica-DV-CPF\obj\Debug\PA12-Verifica-DV-CPF.exe
+A:\DS\Projetos\C#\PA12-Verifica-DV-CPF\obj\Debug\PA12-Verifica-DV-CPF.pdb
