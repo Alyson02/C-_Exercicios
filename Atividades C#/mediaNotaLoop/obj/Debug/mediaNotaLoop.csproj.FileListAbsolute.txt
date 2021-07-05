@@ -1,0 +1,7 @@
+C:\Users\Maycalyson\source\repos\mediaNotaLoop\bin\Debug\mediaNotaLoop.exe.config
+C:\Users\Maycalyson\source\repos\mediaNotaLoop\bin\Debug\mediaNotaLoop.exe
+C:\Users\Maycalyson\source\repos\mediaNotaLoop\bin\Debug\mediaNotaLoop.pdb
+C:\Users\Maycalyson\source\repos\mediaNotaLoop\obj\Debug\mediaNotaLoop.csprojAssemblyReference.cache
+C:\Users\Maycalyson\source\repos\mediaNotaLoop\obj\Debug\mediaNotaLoop.csproj.CoreCompileInputs.cache
+C:\Users\Maycalyson\source\repos\mediaNotaLoop\obj\Debug\mediaNotaLoop.exe
+C:\Users\Maycalyson\source\repos\mediaNotaLoop\obj\Debug\mediaNotaLoop.pdb

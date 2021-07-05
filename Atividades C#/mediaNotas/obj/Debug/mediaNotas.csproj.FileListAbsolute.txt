@@ -1,0 +1,7 @@
+C:\Users\Maycalyson\source\repos\mediaNotas\bin\Debug\mediaNotas.exe.config
+C:\Users\Maycalyson\source\repos\mediaNotas\bin\Debug\mediaNotas.exe
+C:\Users\Maycalyson\source\repos\mediaNotas\bin\Debug\mediaNotas.pdb
+C:\Users\Maycalyson\source\repos\mediaNotas\obj\Debug\mediaNotas.csprojAssemblyReference.cache
+C:\Users\Maycalyson\source\repos\mediaNotas\obj\Debug\mediaNotas.csproj.CoreCompileInputs.cache
+C:\Users\Maycalyson\source\repos\mediaNotas\obj\Debug\mediaNotas.exe
+C:\Users\Maycalyson\source\repos\mediaNotas\obj\Debug\mediaNotas.pdb

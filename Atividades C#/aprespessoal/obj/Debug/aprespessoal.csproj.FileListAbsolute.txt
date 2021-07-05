@@ -1,0 +1,7 @@
+A:\DS\Projetos\C#\aprespessoal\bin\Debug\aprespessoal.exe.config
+A:\DS\Projetos\C#\aprespessoal\bin\Debug\aprespessoal.exe
+A:\DS\Projetos\C#\aprespessoal\bin\Debug\aprespessoal.pdb
+A:\DS\Projetos\C#\aprespessoal\obj\Debug\aprespessoal.csprojAssemblyReference.cache
+A:\DS\Projetos\C#\aprespessoal\obj\Debug\aprespessoal.csproj.CoreCompileInputs.cache
+A:\DS\Projetos\C#\aprespessoal\obj\Debug\aprespessoal.exe
+A:\DS\Projetos\C#\aprespessoal\obj\Debug\aprespessoal.pdb

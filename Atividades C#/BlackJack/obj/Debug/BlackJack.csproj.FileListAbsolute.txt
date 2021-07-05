@@ -1,0 +1,10 @@
+C:\Users\Maycalyson\source\repos\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\Maycalyson\source\repos\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Maycalyson\source\repos\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Maycalyson\source\repos\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+C:\Users\Maycalyson\source\repos\BlackJack\obj\Debug\BlackJack.lblCarta.resources
+C:\Users\Maycalyson\source\repos\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+C:\Users\Maycalyson\source\repos\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.cache
+C:\Users\Maycalyson\source\repos\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\Maycalyson\source\repos\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\Maycalyson\source\repos\BlackJack\obj\Debug\BlackJack.pdb

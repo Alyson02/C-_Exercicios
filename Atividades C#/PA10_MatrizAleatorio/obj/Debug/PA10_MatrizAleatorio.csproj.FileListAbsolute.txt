@@ -1,0 +1,7 @@
+A:\DS\Projetos\C#\PA10_MatrizAleatorio\bin\Debug\PA10_MatrizAleatorio.exe.config
+A:\DS\Projetos\C#\PA10_MatrizAleatorio\bin\Debug\PA10_MatrizAleatorio.exe
+A:\DS\Projetos\C#\PA10_MatrizAleatorio\bin\Debug\PA10_MatrizAleatorio.pdb
+A:\DS\Projetos\C#\PA10_MatrizAleatorio\obj\Debug\PA10_MatrizAleatorio.csprojAssemblyReference.cache
+A:\DS\Projetos\C#\PA10_MatrizAleatorio\obj\Debug\PA10_MatrizAleatorio.csproj.CoreCompileInputs.cache
+A:\DS\Projetos\C#\PA10_MatrizAleatorio\obj\Debug\PA10_MatrizAleatorio.exe
+A:\DS\Projetos\C#\PA10_MatrizAleatorio\obj\Debug\PA10_MatrizAleatorio.pdb

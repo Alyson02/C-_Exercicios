@@ -1,0 +1,7 @@
+C:\Users\Maycalyson\source\repos\PA09GeraNumeros\bin\Debug\PA09GeraNumeros.exe.config
+C:\Users\Maycalyson\source\repos\PA09GeraNumeros\bin\Debug\PA09GeraNumeros.exe
+C:\Users\Maycalyson\source\repos\PA09GeraNumeros\bin\Debug\PA09GeraNumeros.pdb
+C:\Users\Maycalyson\source\repos\PA09GeraNumeros\obj\Debug\PA09GeraNumeros.csprojAssemblyReference.cache
+C:\Users\Maycalyson\source\repos\PA09GeraNumeros\obj\Debug\PA09GeraNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Maycalyson\source\repos\PA09GeraNumeros\obj\Debug\PA09GeraNumeros.exe
+C:\Users\Maycalyson\source\repos\PA09GeraNumeros\obj\Debug\PA09GeraNumeros.pdb
